@@ -84,7 +84,7 @@ public class InputHandler implements KeyListener, FocusListener, MouseListener, 
 	public void keyReleased(KeyEvent e) {
 		for (int i = 0; i < key.length; i++) {
 			key[i] = false;
-		}
+		}//LOL my IQ is 0
 		
 	}
 
